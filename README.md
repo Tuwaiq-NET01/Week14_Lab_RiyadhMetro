@@ -29,6 +29,7 @@
 - Alzahra
 
 
+
 NOTE: All 3 subway lines intersect at Salah Aldin but there are no other intersection points.
 
 
@@ -41,3 +42,7 @@ Here are some examples of how should be invoked.
     stopsBetweenStations('Red','Alwrod', 'Red', 'Diplomatic') // 7 stops
     stopsBetweenStations('Red','Alwrod', 'Green', 'Alzahra') // 6 stops
 
+## Output...
+<img src="Output.png">
+
+## By Samirah
