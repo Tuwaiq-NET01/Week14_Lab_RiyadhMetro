@@ -1,5 +1,7 @@
 # Week14_Lab_RiyadhMetro
 
+## Output
+![output](Output.jpg)
 
 ## Red
 - Alwrod
