@@ -1,0 +1,16 @@
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.exe
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.deps.json
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.runtimeconfig.json
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.dll
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\ref\metroLap.dll
+C:\Users\Taghr\source\repos\metroLap\metroLap\bin\Debug\net5.0\metroLap.pdb
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.dll
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\ref\metroLap.dll
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.pdb
+C:\Users\Taghr\source\repos\metroLap\metroLap\obj\Debug\net5.0\metroLap.genruntimeconfig.cache
