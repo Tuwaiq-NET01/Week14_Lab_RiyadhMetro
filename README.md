@@ -3,34 +3,6 @@
 <p align="center">
   <img src="https://github.com/YounesAlturkey/RiyadhMetro/blob/main/demo.png" alt="demo"/>
 </p>
-  
-## Red
-- Alwrod
-- Salah Aldin
-- Alnzha
-- Hittin
-- Qwrtba
-- KSU
-- Almalaz
-- Diplomatic
-## Blue
-- Alakeek
-- Alyasmin
-- Salah Aldin
-- Rahmanea
-- Motamrat
-- Alolya
-- Almoroj
-## Green
-- Nmar
-- PNU
-- Salah Aldin
-- Solaymanea
-- Alamal
-- Tayba
-- Alhazem
-- Alzahra
-
 
 NOTE: All 3 subway lines intersect at Salah Aldin but there are no other intersection points.
 
