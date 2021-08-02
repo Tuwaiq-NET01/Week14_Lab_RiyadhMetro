@@ -11,27 +11,29 @@ namespace RiyadhMetro
             Stations = stations;
         }
         
-        public int StopsBetweenStations(string stationA, string stationB)
+        public int StopsBetweenStations(string stationA, string stationB, bool secondary)
         {
             var indexA = IndexOf(stationA);
             var indexB = IndexOf(stationB);
 
-            DisplayStations(indexA, indexB);
+            DisplayStations(indexA, indexB, secondary);
             
             return Math.Max(indexA, indexB) - Math.Min(indexA, indexB) + 1;
         }
 
-        private void DisplayStations(int indexA, int indexB)
+        private void DisplayStations(int indexA, int indexB, bool secondary)
         {
             if (indexA < indexB)
             {
                 for (var i = indexA; i <= indexB; i++)
-                    Console.WriteLine($"Train stopped at: {Stations[i]}");
+                    if(!(secondary && Stations[i] == "Salah Aldin"))
+                        Console.WriteLine($"Train stopped at: {Stations[i]}");
             }
             else
             {
                 for (var i = indexA; i >= indexB; i--)
-                    Console.WriteLine($"Train stopped at: {Stations[i]}");
+                    if(!(secondary && Stations[i] == "Salah Aldin"))
+                        Console.WriteLine($"Train stopped at: {Stations[i]}");
             }
         }
 

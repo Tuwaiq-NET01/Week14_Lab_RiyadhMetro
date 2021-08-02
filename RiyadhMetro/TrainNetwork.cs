@@ -27,7 +27,7 @@ namespace RiyadhMetro
                     return;
                 }
 
-                int amount = line.StopsBetweenStations(stationA, stationB);
+                int amount = line.StopsBetweenStations(stationA, stationB, false);
                 Console.WriteLine($"train stopped {amount} {(amount > 1 ? "times" : "time")}");
             }
             else
@@ -41,8 +41,8 @@ namespace RiyadhMetro
                     return;
                 }
                 
-                int amountA = lineA.StopsBetweenStations(stationA, "Salah Aldin");
-                int amountB = lineB.StopsBetweenStations("Salah Aldin", stationB);
+                int amountA = lineA.StopsBetweenStations(stationA, "Salah Aldin", false);
+                int amountB = lineB.StopsBetweenStations("Salah Aldin", stationB, true);
                 int amount = amountA + amountB - 1;
                 Console.WriteLine($"train stopped {amount} {(amount > 1 ? "times" : "time")}");
             }
