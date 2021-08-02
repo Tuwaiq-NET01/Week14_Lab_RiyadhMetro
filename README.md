@@ -1,7 +1,7 @@
 # Week14_Lab_RiyadhMetro
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YounesAlturkey/Observer/main/demo.png" alt="demo"/>
+  <img src="https://github.com/YounesAlturkey/RiyadhMetro/blob/main/demo.png" alt="demo"/>
 </p>
 
   <div align="right">
