@@ -1,0 +1,16 @@
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.csproj.AssemblyReference.cache
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.AssemblyInfoInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.AssemblyInfo.cs
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.csproj.CoreCompileInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.exe
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.deps.json
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.runtimeconfig.json
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.runtimeconfig.dev.json
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.dll
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\ref\MetroApp.dll
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\bin\Debug\net5.0\MetroApp.pdb
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.dll
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\ref\MetroApp.dll
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.pdb
+C:\Users\Samirah Alhusayni\source\repos\MetroApp\MetroApp\obj\Debug\net5.0\MetroApp.genruntimeconfig.cache
