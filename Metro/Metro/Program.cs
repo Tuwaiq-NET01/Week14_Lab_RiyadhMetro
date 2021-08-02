@@ -41,6 +41,8 @@ namespace Metro
             StopsBetweenStations("Red", "Alwrod", "Green", "Alzahra");
             StopsBetweenStations("Red", "Alwrod", "Red", "Alwrod");
             StopsBetweenStations("Red", "Almalaz", "Red", "Alwrod");
+            stopsBetweenStations('Red','Alwrod', 'Green', 'Alzahra');
+
         }
     }
 }
