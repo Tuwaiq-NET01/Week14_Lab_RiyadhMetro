@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://github.com/YounesAlturkey/RiyadhMetro/blob/main/demo.png" alt="demo"/>
 </p>
-
-  <div align="right">
   
 ## Red
 - Alwrod
