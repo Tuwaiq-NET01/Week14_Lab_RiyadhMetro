@@ -25,16 +25,25 @@ namespace RiyadhMetro
 
         private static void Main(string[] args)
         {
-            stopsBetweenStations("Red", "Alwrod", "Red", "Alwrod"); // 0 stops
             stopsBetweenStations("Red", "Alwrod", "Red", "Diplomatic"); // 7 stops
-            stopsBetweenStations("Red", "Alwrod", "Green", "Alzahra"); // 6 stops
+            stopsBetweenStations("Red", "Alwrod", "Red", "Alwrod"); // 0 stops
+            stopsBetweenStations("Blue", "Alyasmin", "Red", "Alnzha"); // 2 stops
+            stopsBetweenStations("Black", "Diplomatic", "Green", "Nmar"); // invalid
+            stopsBetweenStations("Red", "Diplomatic", "Green", "Nmar"); // 8 stops
+
+
         }
 
         public static void stopsBetweenStations(string sLine, string startStation, string eLine, string endStation)
         {
-            assignLines(sLine, eLine);
-            if (startStation == endStation) { Console.WriteLine("You are already at your location."); }
-            if (startLine == endLine)
+            bool valid = assignLines(sLine, eLine);
+            if (!valid)
+            {
+                Console.WriteLine("INVALID LINE!");
+                return;
+            }
+            if (startStation == endStation) { Console.WriteLine("0 stops, You are already at your location."); }
+            else if (startLine == endLine)
             {
                 Console.WriteLine(Math.Abs(startLine.IndexOf(startStation) - endLine.IndexOf(endStation)) + " stops.");
             }
@@ -67,17 +76,19 @@ namespace RiyadhMetro
             return stops;
         }
 
-        public static void assignLines(string sLine, string eLine)
+        public static bool assignLines(string sLine, string eLine)
         {
             if (sLine == "Red") { startLine = red; }
             else if (sLine == "Blue") { startLine = blue; }
             else if (sLine == "Green") { startLine = green; }
-            else { Console.WriteLine("invalid start line"); }
+            else { return false; }
 
             if (eLine == "Red") { endLine = red; }
             else if (eLine == "Blue") { endLine = blue; }
             else if (eLine == "Green") { endLine = green; }
-            else { Console.WriteLine("invalid end line"); }
+            else {return false; }
+
+            return true;
         }
     }
 }
