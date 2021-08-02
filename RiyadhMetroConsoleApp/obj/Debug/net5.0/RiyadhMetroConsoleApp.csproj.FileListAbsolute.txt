@@ -1,0 +1,16 @@
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.exe
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.deps.json
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.runtimeconfig.json
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.runtimeconfig.dev.json
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.dll
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\ref\RiyadhMetroConsoleApp.dll
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\bin\Debug\net5.0\RiyadhMetroConsoleApp.pdb
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.AssemblyInfo.cs
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.dll
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\ref\RiyadhMetroConsoleApp.dll
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.pdb
+C:\Users\rooke\Desktop\RiyadhMetroConsoleApp\obj\Debug\net5.0\RiyadhMetroConsoleApp.genruntimeconfig.cache
