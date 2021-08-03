@@ -1,0 +1,15 @@
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.csproj.AssemblyReference.cache
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.AssemblyInfoInputs.cache
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.AssemblyInfo.cs
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.csproj.CoreCompileInputs.cache
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/NetroRiyadh.deps.json
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/NetroRiyadh.runtimeconfig.json
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/NetroRiyadh.runtimeconfig.dev.json
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/NetroRiyadh.dll
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/ref/NetroRiyadh.dll
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/bin/Debug/net5.0/NetroRiyadh.pdb
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.dll
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/ref/NetroRiyadh.dll
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.pdb
+/Users/nadaalotaibi/Projects/NetroRiyadh/NetroRiyadh/obj/Debug/net5.0/NetroRiyadh.genruntimeconfig.cache
