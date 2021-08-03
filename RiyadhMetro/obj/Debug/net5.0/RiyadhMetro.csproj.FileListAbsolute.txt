@@ -1,0 +1,15 @@
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.deps.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.runtimeconfig.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.runtimeconfig.dev.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/ref/RiyadhMetro.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.csprojAssemblyReference.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.AssemblyInfoInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.AssemblyInfo.cs
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.csproj.CoreCompileInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/ref/RiyadhMetro.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-ASPnet/labs/Week14_Lab_RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.genruntimeconfig.cache
