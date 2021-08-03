@@ -41,3 +41,5 @@ Here are some examples of how should be invoked.
     stopsBetweenStations('Red','Alwrod', 'Red', 'Diplomatic') // 7 stops
     stopsBetweenStations('Red','Alwrod', 'Green', 'Alzahra') // 6 stops
 
+Bonus : 
+- input validation
