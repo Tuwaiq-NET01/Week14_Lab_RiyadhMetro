@@ -1,0 +1,15 @@
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.deps.json
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.runtimeconfig.json
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.runtimeconfig.dev.json
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.dll
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/ref/RiyadhMetro.dll
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/bin/Debug/net5.0/RiyadhMetro.pdb
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.csproj.AssemblyReference.cache
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.AssemblyInfoInputs.cache
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.AssemblyInfo.cs
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.dll
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/ref/RiyadhMetro.dll
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.pdb
+/Users/afra/Projects/RiyadhMetro/RiyadhMetro/obj/Debug/net5.0/RiyadhMetro.genruntimeconfig.cache
